@@ -21,7 +21,7 @@
       <mj-column vertical-align="middle">
         <mj-text font-family="roboto" font-size="26px"align="left" color="#808080"> <b><span style="color:#FF8300" font-size="24px">Olá, Fulano</span></mj-text>
         <mj-text font-family="roboto" font-size="17px"align="left"> <span style="color:#black">Descubra como sua contribuição está ajudando a <b>salvar vidas!</b>
-Mudamos o formato dessa newsletter, mas você ainda poderá conferir as fotos de <b>todos os animais</b> sob nossos cuidados na <b>galeria.</b></span></mj-text>
+Mudamos o formato dessa newsletter, mas você ainda poderá conferir as fotos de <b>todos os animais</b> sob nossos cuidados na <b><href="https://google.com">galeria.</href></b></span></mj-text>
       </mj-column>
       <mj-column vertical-align="middle">
         <mj-image alt="Mix and Match Shells" src="https://i.imgur.com/bQZTIX5.png" width="325px" padding="0px"></mj-image>
@@ -40,7 +40,7 @@ Mudamos o formato dessa newsletter, mas você ainda poderá conferir as fotos de
         <mj-spacer height="5px"></mj-spacer>
         <mj-text font-size="14px" align="justify" color="#ffffff" font-weight="700" padding-bottom="0px" font-family="Roboto" line-height="20px">Com muita expetativa relatamos no último boletim o caso da gatinha neném órfã resgatada ainda com a placenta ligada ao corpo pelo cordão umbilical. A gata Bela a acolheu juntando-a a sua ninhada nascida dez dias antes. Muito menor que os irmãos adotivos mas com vitalidade suficiente para mamar, ela cresceu linda e forte e foi adotada por uma família que caiu  de amores por ela (o que entendemos perfeitamente pois ficamos com sua pegadinha em nossos corações). </mj-text>
         <mj-spacer height="5px"></mj-spacer>
-        <mj-button font-size="15px" font-weight="700" font-family="Roboto" background-color="#fff" color="#242729" inner-padding="5px 15px" border-radius="20px">Veja mais fotos</mj-button>
+        <mj-button href="https://google.com" font-size="15px" font-weight="700" font-family="Roboto" background-color="#fff" color="#242729" inner-padding="5px 15px" border-radius="20px">Veja mais fotos</mj-button>
         <mj-spacer height="50px"></mj-spacer>
       </mj-column>
     </mj-section>
@@ -51,11 +51,11 @@ Mudamos o formato dessa newsletter, mas você ainda poderá conferir as fotos de
     <mj-section padding="0px" background-url="" background-color="#FF8300">
       <mj-column vertical-align="middle">
         <mj-spacer height="50px"></mj-spacer>
-        <mj-text font-size="20px" align="left" color="#ffffff" font-weight="100" letter-spacing="1px" padding-bottom="30px" font-family="Roboto" line-height="1px"><b>Max</b></mj-text>
+        <mj-text font-size="20px" align="left" color="#ffffff" font-weight="700" letter-spacing="1px" padding-bottom="30px" font-family="Roboto" line-height="1px"><b>Max</b></mj-text>
         <mj-spacer height="5px"></mj-spacer>
         <mj-text font-size="15px" align="justify" color="#ffffff" font-weight="700" padding-bottom="0px" font-family="Roboto" line-height="20px">Após denúncia de maus tratos encontramos o animal em estado deplorável deitado na rua. Pelos longos embolados com lixo e infestado de carrapatos escondiam a pele muito inflamada evidenciando negligência de longa data. Max foi tosado, tomou banho, remédios para carrapatos e vermes, passou em consulta e fez exames que revelaram anemia, doença do carrapato, dermatite e micose. Está recebendo tudo o que necessita até que tenha condições de ser vacinado e castrado para viver dignamente. Quer saber como ele está? Clique no botão abaixo.</mj-text>
         <mj-spacer height="5px"></mj-spacer>
-        <mj-button font-size="15px" font-weight="700" font-family="Roboto" background-color="#fff" color="#242729" inner-padding="5px 15px" border-radius="20px">Veja mais fotos</mj-button>
+        <mj-button href="https://google.com" font-size="15px" font-weight="700" font-family="Roboto" background-color="#fff" color="#242729" inner-padding="5px 15px" border-radius="20px">Veja mais fotos</mj-button>
         <mj-spacer height="50px"></mj-spacer>
       </mj-column>
       <mj-column vertical-align="middle">
@@ -64,17 +64,20 @@ Mudamos o formato dessa newsletter, mas você ainda poderá conferir as fotos de
       
     </mj-section>
     <mj-section padding="0px" background-color="#FFFFFF" direction="rtl">
-      <mj-column vertical-align="middle">
-        <mj-text font-family="roboto" font-size="17px"align="left"> <span><b>Conheça o <span style="color:#FF8300">Atleta</span>, o primeiro animal <span style="color:#FF8300">sujeito de direitos</span> do Brasil.</mj-text>
-        <mj-image alt="Atleta" src="https://i.imgur.com/fN2PGQs.png" width="200px" padding="0px"></mj-image>
+      <mj-column vertical-align="middle">   
+        <mj-text font-family="roboto" padding-top="10px"font-size="20px"align="left"> <span><b>Conheça o <span style="color:#FF8300">Atleta</span>, o primeiro animal <span style="color:#FF8300">sujeito de direitos</span> do Brasil.</mj-text>
+        <mj-image alt="Atleta" src="https://i.imgur.com/fN2PGQs.png" width="200px" height="270px" padding="0px"></mj-image>
+        <mj-button href="https://google.com" font-size="15px" font-weight="700" font-family="Roboto" background-color="black" inner-padding="5px 15px" border-radius="20px">Conheça o Atleta</mj-button>
       </mj-column>
       <mj-column vertical-align="middle">
-        <mj-image alt="Galery" src="https://i.imgur.com/bQZTIX5.png" width="300px" padding="0px"></mj-image>
+        <mj-text font-size="20px" align="left" color="black" font-weight="700" letter-spacing="1px" padding-bottom="50px" font-family="Roboto" line-height="20px"><b>Acesse nossa <span style="color:#FF8300">galeria completa</span> de fotos </b></mj-text>
+        <mj-image alt="Galery" src="https://i.imgur.com/H2iqLLf.png" padding-bottom="0px" width="249px" padding="0px"></mj-image>
+        <mj-button href="https://google.com" font-size="15px" font-weight="700" font-family="Roboto" background-color="black" inner-padding="5px 19px" padding-bottom="10px" border-radius="20px">Galeria de fotos</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="0px" background-url="" background-color="#FF8300">
       <mj-column>
-        <mj-image width="600px" src="https://i.imgur.com/iFDdayQ.jpg"></mj-image>
+        <mj-image width="600px" href="https://pt-br.facebook.com/gavassantafe"src="https://i.imgur.com/Hel7l30.png"></mj-image>
       </mj-column>
     </mj-section>
   </mj-body>
