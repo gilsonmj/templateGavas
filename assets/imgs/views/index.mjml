@@ -19,8 +19,9 @@
     </mj-raw>
     <mj-section background-color="#FCFCFD" padding-top="20px" padding-bottom="20px" padding-left="25px">
       <mj-column vertical-align="middle">
-        <mj-text font-family="arial" font-size="26px"align="left" color="#808080"> <b><span style="color:#FF8300" font-size="24px">Olá, Fulano</span></mj-text>
-        <mj-text font-family="arial" font-size="18px"align="left"> <b><span style="color:#black">Descubra como a sua contribuição está ajudando a salvar vidas.</span></mj-text>
+        <mj-text font-family="roboto" font-size="26px"align="left" color="#808080"> <b><span style="color:#FF8300" font-size="24px">Olá, Fulano</span></mj-text>
+        <mj-text font-family="roboto" font-size="17px"align="left"> <span style="color:#black">Descubra como sua contribuição está ajudando a <b>salvar vidas!</b>
+Mudamos o formato dessa newsletter, mas você ainda poderá conferir as fotos de <b>todos os animais</b> sob nossos cuidados na <b>galeria.</b></span></mj-text>
       </mj-column>
       <mj-column vertical-align="middle">
         <mj-image alt="Mix and Match Shells" src="https://i.imgur.com/bQZTIX5.png" width="325px" padding="0px"></mj-image>
@@ -31,15 +32,15 @@
     </mj-raw>
     <mj-section padding="0px" background-url="" background-color="#FF8300">
       <mj-column vertical-align="middle">
-        <mj-image alt="GET YOUR ROBOT" src="https://i.imgur.com/e8l2nak.png" width="400px" padding="25px"></mj-image>
+        <mj-image alt="Animal 1" src="https://i.imgur.com/J1hk90e.jpg" width="400px" padding="10px"></mj-image>
       </mj-column>
       <mj-column vertical-align="middle">
         <mj-spacer height="50px"></mj-spacer>
-        <mj-text font-size="18px" align="left" color="#ffffff" font-weight="100" font-style="italic" letter-spacing="1px" padding-bottom="2px" font-family="Arial" line-height="1px"><b>Nome do animal 1</b></mj-text>
+        <mj-text font-size="20px" align="justify" color="#ffffff" font-weight="700" letter-spacing="1px" padding-bottom="30px" font-family="Roboto" line-height="25px"><b>Adotadinha agora Nina</b></mj-text>
         <mj-spacer height="5px"></mj-spacer>
-        <mj-text font-size="14px" align="left" color="#ffffff" font-weight="100" padding-bottom="0px" font-family="Arial" line-height="20px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in diam tellus. Donec euismod est quis enim dictum dictum. Phasellus ultrices pellentesque dolor sit amet lobortis. Maecenas viverra, magna eu tincidunt blandit, nisl nulla tempus quam, fermentum lacinia felis velit eget metus. Phasellus auctor dapibus fringilla. Duis rutrum urna orci, eget ultricies nisl commodo mollis. Nulla blandit tincidunt m </mj-text>
+        <mj-text font-size="14px" align="justify" color="#ffffff" font-weight="700" padding-bottom="0px" font-family="Roboto" line-height="20px">Com muita expetativa relatamos no último boletim o caso da gatinha neném órfã resgatada ainda com a placenta ligada ao corpo pelo cordão umbilical. A gata Bela a acolheu juntando-a a sua ninhada nascida dez dias antes. Muito menor que os irmãos adotivos mas com vitalidade suficiente para mamar, ela cresceu linda e forte e foi adotada por uma família que caiu  de amores por ela (o que entendemos perfeitamente pois ficamos com sua pegadinha em nossos corações). </mj-text>
         <mj-spacer height="5px"></mj-spacer>
-        <mj-button font-size="16px" font-family="arial" background-color="#fff" color="#EE3C96" inner-padding="5px 35px" border-radius="15px"><i>VEJA MAIS FOTOS</i></mj-button>
+        <mj-button font-size="15px" font-weight="700" font-family="Roboto" background-color="#fff" color="#242729" inner-padding="5px 15px" border-radius="20px">Veja mais fotos</mj-button>
         <mj-spacer height="50px"></mj-spacer>
       </mj-column>
     </mj-section>
@@ -50,29 +51,25 @@
     <mj-section padding="0px" background-url="" background-color="#FF8300">
       <mj-column vertical-align="middle">
         <mj-spacer height="50px"></mj-spacer>
-        <mj-text font-size="18px" align="left" color="#ffffff" font-weight="100" font-style="italic" letter-spacing="1px" padding-bottom="2px" font-family="Arial" line-height="1px"><b>Nome do animal 1</b></mj-text>
+        <mj-text font-size="20px" align="left" color="#ffffff" font-weight="100" letter-spacing="1px" padding-bottom="30px" font-family="Roboto" line-height="1px"><b>Max</b></mj-text>
         <mj-spacer height="5px"></mj-spacer>
-        <mj-text font-size="14px" align="left" color="#ffffff" font-weight="100" padding-bottom="0px" font-family="Arial" line-height="20px">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in diam tellus. Donec euismod est quis enim dictum dictum. Phasellus ultrices pellentesque dolor sit amet lobortis. Maecenas viverra, magna eu tincidunt blandit, nisl nulla tempus quam, fermentum lacinia felis velit eget metus. Phasellus auctor dapibus fringilla. Duis rutrum urna orci, eget ultricies nisl commodo mollis. Nulla blandit tincidunt m </mj-text>
+        <mj-text font-size="15px" align="justify" color="#ffffff" font-weight="700" padding-bottom="0px" font-family="Roboto" line-height="20px">Após denúncia de maus tratos encontramos o animal em estado deplorável deitado na rua. Pelos longos embolados com lixo e infestado de carrapatos escondiam a pele muito inflamada evidenciando negligência de longa data. Max foi tosado, tomou banho, remédios para carrapatos e vermes, passou em consulta e fez exames que revelaram anemia, doença do carrapato, dermatite e micose. Está recebendo tudo o que necessita até que tenha condições de ser vacinado e castrado para viver dignamente. Quer saber como ele está? Clique no botão abaixo.</mj-text>
         <mj-spacer height="5px"></mj-spacer>
-        <mj-button font-size="16px" font-family="arial" background-color="#fff" color="#EE3C96" inner-padding="5px 35px" border-radius="15px"><i>VEJA MAIS FOTOS</i></mj-button>
+        <mj-button font-size="15px" font-weight="700" font-family="Roboto" background-color="#fff" color="#242729" inner-padding="5px 15px" border-radius="20px">Veja mais fotos</mj-button>
         <mj-spacer height="50px"></mj-spacer>
       </mj-column>
       <mj-column vertical-align="middle">
-        <mj-image alt="GET YOUR ROBOT" src="https://i.imgur.com/e8l2nak.png" width="400px" padding="25px"></mj-image>
+        <mj-image alt="Animal 2" src="https://i.imgur.com/vj8e8Ej.jpg" width="400px" padding="10px"></mj-image>
       </mj-column>
       
     </mj-section>
     <mj-section padding="0px" background-color="#FFFFFF" direction="rtl">
       <mj-column vertical-align="middle">
-        <mj-image alt="GET EXTRA SHELLS" src="https://i.imgur.com/bQZTIX5.png" width="300px" padding="0px"></mj-image>
+        <mj-text font-family="roboto" font-size="17px"align="left"> <span><b>Conheça o <span style="color:#FF8300">Atleta</span>, o primeiro animal <span style="color:#FF8300">sujeito de direitos</span> do Brasil.</mj-text>
+        <mj-image alt="Atleta" src="https://i.imgur.com/fN2PGQs.png" width="200px" padding="0px"></mj-image>
       </mj-column>
       <mj-column vertical-align="middle">
-        <mj-spacer height="50px"></mj-spacer>
-        <mj-text font-size="18px" align="center" color="#ffffff" font-weight="100" font-style="italic" letter-spacing="1px" padding-bottom="2px" font-family="Arial" line-height="1px"><b>GET EXT SHELLS</b></mj-text>
-        <mj-text font-size="14px" align="center" color="#ffffff" font-weight="100" padding-bottom="0px" font-family="Arial" line-height="1.5px">Neon pink, orange, blue, green or classic Sphero whit. Buy one. Or two. Or all.</mj-text>
-        <mj-spacer height="15px"></mj-spacer>
-        <mj-button font-size="16px" font-family="arial" background-color="#fff" color="#00A3D9" inner-padding="5px 25px" border-radius="15px"><i>ATLETA</i></mj-button>
-        <mj-spacer height="50px"></mj-spacer>
+        <mj-image alt="Galery" src="https://i.imgur.com/bQZTIX5.png" width="300px" padding="0px"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section padding="0px" background-url="" background-color="#FF8300">
