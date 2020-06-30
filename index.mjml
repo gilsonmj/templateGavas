@@ -32,13 +32,13 @@ Mudamos o formato dessa newsletter, mas você ainda poderá conferir as fotos de
     </mj-raw>
     <mj-section padding="0px" background-url="" background-color="#FF8300">
       <mj-column vertical-align="middle">
-        <mj-image alt="Animal 1" src="https://i.imgur.com/455xk6I.jpg" width="400px" padding="10px"></mj-image>
+        <mj-image alt="Animal 1" src="https://i.imgur.com/eGw812B.jpg" width="400px" padding="10px"></mj-image>
       </mj-column>
       <mj-column vertical-align="middle">
         <mj-spacer height="50px"></mj-spacer>
-        <mj-text font-size="20px" align="justify" color="#ffffff" font-weight="700" letter-spacing="0px" padding-bottom="30px" font-family="Roboto" line-height="25px"><b>Adotadinha agora Nina</b></mj-text>
+        <mj-text font-size="20px" align="justify" color="#ffffff" font-weight="700" letter-spacing="0px" padding-bottom="30px" font-family="Roboto" line-height="25px"><b>Lola</b></mj-text>
         <mj-spacer height="5px"></mj-spacer>
-        <mj-text font-size="14px" align="justify" color="#ffffff" font-weight="700" padding-bottom="0px" font-family="Roboto" line-height="20px">Com muita expetativa relatamos no último boletim o caso da gatinha neném órfã resgatada ainda com a placenta ligada ao corpo pelo cordão umbilical. A gata Bela a acolheu juntando-a a sua ninhada nascida dez dias antes. Muito menor que os irmãos adotivos mas com vitalidade suficiente para mamar, ela cresceu linda e forte e foi adotada por uma família que caiu  de amores por ela (o que entendemos perfeitamente pois ficamos com sua pegadinha em nossos corações). </mj-text>
+        <mj-text font-size="14px" align="justify" color="#ffffff" font-weight="700" padding-bottom="0px" font-family="Roboto" line-height="20px">A Lola foi resgatada de maus tratos no fim do mês, por isso ainda não é possível ver sua melhora. Vivia numa chácara onde era alimentada apenas uma vez por semana. Estava cheia de pulgas, carrapatos, feridas e sarna. Já iniciou os tratamentos e quando estiver saudável poderá ser adotada.</mj-text>
         <mj-spacer height="5px"></mj-spacer>
         <mj-button href="https://drive.google.com/drive/folders/1s9pkxUDm-_k4dPIY2w5DU68zA6MWk2wZ?usp=sharing" font-size="15px" font-weight="700" font-family="Roboto" background-color="#fff" color="#242729" inner-padding="5px 15px" border-radius="20px">Veja mais fotos</mj-button>
         <mj-spacer height="50px"></mj-spacer>
@@ -51,15 +51,15 @@ Mudamos o formato dessa newsletter, mas você ainda poderá conferir as fotos de
     <mj-section padding="0px" background-url="" background-color="#FF8300">
       <mj-column vertical-align="middle">
         <mj-spacer height="50px"></mj-spacer>
-        <mj-text font-size="20px" align="left" color="#ffffff" font-weight="700" letter-spacing="1px" padding-bottom="30px" font-family="Roboto" line-height="1px"><b>Max</b></mj-text>
+        <mj-text font-size="20px" align="left" color="#ffffff" font-weight="700" letter-spacing="1px" padding-bottom="30px" font-family="Roboto" line-height="1px"><b>Kid Baby</b></mj-text>
         <mj-spacer height="5px"></mj-spacer>
-        <mj-text font-size="15px" align="justify" color="#ffffff" font-weight="700" padding-bottom="0px" font-family="Roboto" line-height="20px">Após denúncia de maus tratos encontramos o animal em estado deplorável deitado na rua. Pelos longos embolados com lixo e infestado de carrapatos escondiam a pele muito inflamada evidenciando negligência de longa data. Max foi tosado, tomou banho, remédios para carrapatos e vermes, passou em consulta e fez exames que revelaram anemia, doença do carrapato, dermatite e micose. Está recebendo tudo o que necessita até que tenha condições de ser vacinado e castrado para viver dignamente. Quer saber como ele está? Clique no botão abaixo.</mj-text>
+        <mj-text font-size="15px" align="justify" color="#ffffff" font-weight="700" padding-bottom="0px" font-family="Roboto" line-height="20px">O Kid Baby foi resgatado de uma colônia de gatos. Estava tão doente que mal conseguia se mexer, tinha os olhos cheios de secreção, a barriga dura obstruída... Sofreu tanto na rua que morria de medo das pessoas, mas com muito amor e um pouco de patê já se tornou um gatinho carinhoso. Agora só falta encontrar uma nova família!</mj-text>
         <mj-spacer height="5px"></mj-spacer>
         <mj-button href="https://drive.google.com/drive/folders/1s9pkxUDm-_k4dPIY2w5DU68zA6MWk2wZ?usp=sharing" font-size="15px" font-weight="700" font-family="Roboto" background-color="#fff" color="#242729" inner-padding="5px 15px" border-radius="20px">Veja mais fotos</mj-button>
         <mj-spacer height="50px"></mj-spacer>
       </mj-column>
       <mj-column vertical-align="middle">
-        <mj-image alt="Animal 2" src="https://i.imgur.com/Ak09JOS.jpg" width="400px" padding="10px"></mj-image>
+        <mj-image alt="Animal 2" src="https://i.imgur.com/0ouoPqj.jpg" width="400px" padding="10px"></mj-image>
       </mj-column>
       
     </mj-section>
