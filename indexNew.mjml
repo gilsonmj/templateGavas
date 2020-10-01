@@ -7,8 +7,11 @@
       <!-- Top Bar -->
     </mj-raw>
     <mj-section background-color="#FFFFFF" padding="0px">
-      <mj-column>
+      <mj-column width="500px" border-bottom-radius="20px" background-color="#FB6604">
         <mj-image width="100px" src="https://i.imgur.com/T1GRuX4.jpg" align="center" alt="Logo Gavas"></mj-image>
+        <mj-text font-family="roboto" font-size="26px"align="center" color="#808080"> <b><span style="color:#000000" font-size="24px">Olá, Fulano</span></mj-text>
+        <mj-text font-family="roboto" font-size="26px"align="center" color="#808080"> <b><span style="color:#000000" font-size="24px">Olá, Fulano</span></mj-text>
+        <mj-text font-family="roboto" font-size="26px"align="center" color="#808080"> <b><span style="color:#000000" font-size="24px">Olá, Fulano</span></mj-text>
       </mj-column>
     </mj-section>
     <mj-raw>
@@ -32,13 +35,13 @@ Mudamos o formato dessa newsletter, mas você ainda poderá conferir as fotos de
     </mj-raw>
     <mj-section padding="0px" background-url="" background-color="#FF8300">
       <mj-column vertical-align="middle">
-        <mj-image alt="Animal 1" src="https://i.imgur.com/mUIBqyQ.jpg" width="400px"  height="250px" padding="10px"></mj-image>
+        <mj-image alt="Animal 1" src="https://i.imgur.com/FyLIA5o.jpg" width="400px"  height="250px" padding="10px"></mj-image>
       </mj-column>
       <mj-column vertical-align="middle">
         <mj-spacer height="50px"></mj-spacer>
-        <mj-text font-size="20px" align="justify" color="#ffffff" font-weight="700" letter-spacing="0px" padding-bottom="30px" font-family="Roboto" line-height="25px"><b>Queiroz</b></mj-text>
+        <mj-text font-size="20px" align="justify" color="#ffffff" font-weight="700" letter-spacing="0px" padding-bottom="30px" font-family="Roboto" line-height="25px"><b>Samantha</b></mj-text>
         <mj-spacer height="5px"></mj-spacer>
-        <mj-text font-size="14px" align="justify" color="#ffffff" font-weight="700" padding-bottom="0px" font-family="Roboto" line-height="20px">Esse é o Queiroz, batizado assim porque foi bem difícil de capturar. Ele passou três semanas no meio de um matagal com sua irmã e não deixavam ninguém chegar perto. Nossos voluntários precisaram ficar no local até as 3 da manhã para conseguir pegar os dois. Agora estão sendo tratados e em breve estarão disponíveis para adoção
+        <mj-text font-size="14px" align="justify" color="#ffffff" font-weight="700" padding-bottom="0px" font-family="Roboto" line-height="20px">A Samantha foi resgatada das ruas por um voluntário, ela estava grávida. Entrou em trabalho de parto no dia 23 de agosto, mas não conseguiu parir sozinha e precisou de cesária. Infelizmente, após acordar da anestesia, Samantha não reconheceu seus bebês e não quis amamentá-los. Samantha está se recuperando do parto e seus bebês estão sendo criados na mamadeira.
 
 </mj-text>
         <mj-spacer height="5px"></mj-spacer>
@@ -53,15 +56,15 @@ Mudamos o formato dessa newsletter, mas você ainda poderá conferir as fotos de
     <mj-section padding="0px" background-url="" background-color="#FF8300">
       <mj-column vertical-align="middle">
         <mj-spacer height="50px"></mj-spacer>
-        <mj-text font-size="20px" align="left" color="#ffffff" font-weight="700" letter-spacing="1px" padding-bottom="30px" font-family="Roboto" line-height="1px"><b>X</b></mj-text>
+        <mj-text font-size="20px" align="left" color="#ffffff" font-weight="700" letter-spacing="1px" padding-bottom="30px" font-family="Roboto" line-height="1px"><b>Capitão</b></mj-text>
         <mj-spacer height="5px"></mj-spacer>
-        <mj-text font-size="15px" align="justify" color="#ffffff" font-weight="700" padding-bottom="0px" font-family="Roboto" line-height="20px">Esse é o X. Ele tem por volta de dois meses e foi encontrado andando sozinho numa avenida. Está muito assustado ainda, mas não tem problemas de saúde. Já foi vermifugado e está disponível para adoção</mj-text>
+        <mj-text font-size="15px" align="justify" color="#ffffff" font-weight="700" padding-bottom="0px" font-family="Roboto" line-height="20px">A polícia recebeu a denúncia de maus tratos do Capitão. Nós ajudamos na captura e o levamos para um lar temporário. Infelizmente Capitão está travando uma batalha difícil por sua vida e não existem garantias de que vá sobreviver depois de ter passado mais de um ano com doença do carrapato sem qualquer tratamento.</mj-text>
         <mj-spacer height="5px"></mj-spacer>
         <mj-button href="https://drive.google.com/drive/folders/1s9pkxUDm-_k4dPIY2w5DU68zA6MWk2wZ?usp=sharing" font-size="15px" font-weight="700" font-family="Roboto" background-color="#fff" color="#242729" inner-padding="5px 15px" border-radius="20px">Veja mais fotos</mj-button>
         <mj-spacer height="50px"></mj-spacer>
       </mj-column>
       <mj-column vertical-align="middle">
-        <mj-image alt="Animal 2" src="https://i.imgur.com/N91zljn.png" width="400px" padding="10px"></mj-image>
+        <mj-image alt="Animal 2" src="https://i.imgur.com/XcUqbpD.jpg" width="400px" padding="10px"></mj-image>
       </mj-column>
       
     </mj-section>
